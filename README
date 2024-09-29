@@ -3,3 +3,21 @@ Company: CODETECH IT SOLUTIONS
 ID ::CT08DS7655
 Domain : Python Programming
 Duration : August to september 2024
+
+overiew of the object:
+project: calculator program using Tkinter python program
+
+OBJECTIVE:
+The primary function of a calculator is to execute fundamental arithmetic operations such as addition, 
+subtraction, multiplication, and division. This allows users to quickly solve everyday mathematical problems.
+Key activity:
+input Handling: Capturing user input through a keypad interface, allowing users to enter numbers and operations (e.g., addition, subtraction).
+Operation Execution: Performing arithmetic operations based on the input. This involves:
+Storing numbers in registers (like X and Y registers).
+Encoding operations (addition, subtraction, etc.) for processing.
+Calculation Process: Utilizing an Arithmetic Logic Unit (ALU) to carry out the calculations according to the specified operations and rules of precedence (BIDMAS/BODMAS).
+Result Display: Showing the computed result on the display panel after executing the calculations.
+
+Technologies used:
+Python :The primary programming language
+Tkinter: import the tkinter to gui the define,creating the button ,and also using the stringh variable.
